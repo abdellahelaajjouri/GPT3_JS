@@ -15,10 +15,10 @@ function Navbar() {
           <a href="#wgpt3">What is GPT?</a>
         </p>
         <p>
-          <a href="#possibility">Open AI</a>
+          <a href="#features">Case Studies</a>
         </p>
         <p>
-          <a href="#features">Case Studies</a>
+          <a href="#possibility">Open AI</a>
         </p>
         <p>
           <a href="#blog">Library</a>
@@ -42,7 +42,7 @@ function Navbar() {
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
-          <RiCloseLine 
+          <RiCloseLine
             size={27}
             color={"#FFF"}
             onClick={() => setToggleMenu(false)}

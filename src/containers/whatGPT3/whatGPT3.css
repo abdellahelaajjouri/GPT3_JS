@@ -109,7 +109,7 @@
 .gpt3__whatgpt3-container .gpt3__features-container_feature-text {
   margin-top: 0.5rem;
 }
-
+    
 @media screen and (max-width: 850px) {
   .gpt3__whatgpt3-heading {
     flex-direction: column;

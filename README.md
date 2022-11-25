@@ -1,3 +1,9 @@
+## website URL
+[website URL](https://tiny-biscotti-eae910.netlify.app/)
+
+## figma design 
+[figma design](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHkzVmpyWWdCc204ZkZEa1NHRlVJdGM0NWlPUXxBQ3Jtc0tuWjlZbXRnbksyWVhHSW5DSlUzdFNiWTU4R1pXRnhPZlQ1czNQM2ZhcUU1T3ljWnJIbmhYYTJvbDBKN0tLSzdhTE80am1YdHpZTjFyV01VSXUya2lXSTF4S2Fzb0w5bDUtZ0FvbDdHR2VNYnBBMVFlWQ&q=https%3A%2F%2Fwww.figma.com%2Ffile%2Flz9lLpFHMxHm2odnwM3R0z%2Fgpt3&v=F627pKNUCVQ)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
